@@ -9639,3 +9639,18 @@ Checking simple.c ...
 3/3 files checked 100% done
 Hello, World! Seungwoo
 Hello, World! Seungwoo
+[master 094bfcf] iEC2 Cron #
+ 1 file changed, 15 insertions(+)
+To https://github.com/spark7677/Cron_Test.git
+   f6eeabc..094bfcf  master -> master
+Build Step
+Wed Aug  1 01:00:01 UTC 2018
+Already up-to-date.
+Checking HelloWorld.c ...
+1/3 files checked 33% done
+Checking main.c ...
+2/3 files checked 66% done
+Checking simple.c ...
+3/3 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
