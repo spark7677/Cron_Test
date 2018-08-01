@@ -9592,3 +9592,7 @@ Checking simple.c ...
 3/3 files checked 100% done
 Hello, World! Seungwoo
 Hello, World! Seungwoo
+[master 27175d4] EC2 Cron
+ 1 file changed, 15 insertions(+)
+To https://github.com/spark7677/Cron_Test.git
+   5683092..27175d4  master -> master
