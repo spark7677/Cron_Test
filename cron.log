@@ -810,3 +810,33 @@ Hello, World! Seungwoo
 
 ############### GIT ADD ##############
 ################ DONE ################
+[master 693331e] EC2 Cron Build
+ 2 files changed, 29 insertions(+)
+ create mode 100644 .shtest.sh.swp
+To https://github.com/spark7677/Cron_Test.git
+   46b2231..693331e  master -> master
+
+
+########## Cron Build Time ##########
+Wed Aug  1 15:43:01 UTC 2018
+
+############# GIT PULL ##############
+Already up-to-date.
+
+############# CPPCHECK ##############
+Checking HelloWorld.c ...
+1/3 files checked 33% done
+Checking main.c ...
+2/3 files checked 66% done
+Checking simple.c ...
+3/3 files checked 100% done
+
+############# Compiling ##############
+
+########### Excuting File ############
+
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+
+############### GIT ADD ##############
+################ DONE ################
