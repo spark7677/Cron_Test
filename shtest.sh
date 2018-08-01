@@ -23,23 +23,16 @@ gcc -o Hello HelloWorld.o main.o
 
 echo ""
 echo "########### Excuting File ############"
+echo ""
 ./Hello
 
 echo ""
 echo "############### GIT ADD ##############"
+echo "################ DONE ################"
 
 git add .
 
-echo ""
-echo "############## GIT COMMIT ############"
-
 git commit -m "EC2 Cron Build $date"
 
-echo ""
-echo "############## GIT PUSH ##############"
-
 git push
-
-echo ""
-echo "################ DONE ################"
 echo ""
