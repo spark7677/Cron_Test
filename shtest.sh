@@ -1,8 +1,8 @@
 #!/bin/bash
 
-
 echo ""
-echo "########## Cron Build Time ##########"
+echo "####################################"
+echo "##### Cron Build Starting Time #####"
 
 date
 
@@ -35,4 +35,5 @@ git add .
 git commit -m "EC2 Cron Build $date"
 
 git push
+echo "#######################################"
 echo ""
