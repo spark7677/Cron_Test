@@ -9611,3 +9611,16 @@ Hello, World! Seungwoo
  1 file changed, 11 insertions(+)
 To https://github.com/spark7677/Cron_Test.git
    c062e35..817551f  master -> master
+Build Step
+Wed Aug  1 00:58:01 UTC 2018
+error: cannot lock ref 'refs/remotes/origin/master': is at 454d5e25f6eb56c0b64f618f47b46cb729d04273 but expected 817551fa66edc79c4f676e146e278137bce82c8b
+From https://github.com/spark7677/Cron_Test
+ ! 817551f..454d5e2  master     -> origin/master  (unable to update local ref)
+Checking HelloWorld.c ...
+1/3 files checked 33% done
+Checking main.c ...
+2/3 files checked 66% done
+Checking simple.c ...
+3/3 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
