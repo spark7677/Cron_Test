@@ -9908,3 +9908,20 @@ Checking simple.c ...
 3/3 files checked 100% done
 Hello, World! Seungwoo
 Hello, World! Seungwoo
+[master 6810657] EC2 Cron
+ 1 file changed, 17 insertions(+)
+./shtest.sh: line 19: +: command not found
+To https://github.com/spark7677/Cron_Test.git
+   38246fd..6810657  master -> master
+\n\nBuil 
+
+Wed Aug  1 12:00:01 UTC 2018
+Already up-to-date.
+Checking HelloWorld.c ...
+1/3 files checked 33% done
+Checking main.c ...
+2/3 files checked 66% done
+Checking simple.c ...
+3/3 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
