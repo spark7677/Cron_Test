@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Buil "
+echo "\n\nBuil "
 echo "$cnt"
 
 date
