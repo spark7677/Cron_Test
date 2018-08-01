@@ -13,8 +13,8 @@ gcc -o Hello HelloWorld.o main.o
 
 git add .
 
-git commit -m i"EC2 Cron #$cnt"
+git commit -m "EC2 Cron # $cnt"
 
-cnt=cnt+1
+cnt=cnt + 1
 
 git push

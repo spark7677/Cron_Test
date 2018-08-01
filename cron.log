@@ -9654,3 +9654,8 @@ Checking simple.c ...
 3/3 files checked 100% done
 Hello, World! Seungwoo
 Hello, World! Seungwoo
+[master b3cb5a6] iEC2 Cron #
+ 2 files changed, 15 insertions(+)
+ create mode 100644 .shtest.sh.swp
+To https://github.com/spark7677/Cron_Test.git
+   094bfcf..b3cb5a6  master -> master
