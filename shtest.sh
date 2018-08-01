@@ -1,7 +1,6 @@
 #!/bin/bash
 
-echo "\n\nBuil "
-echo "$cnt"
+echo "Cron Build"
 
 date
 
@@ -14,8 +13,6 @@ gcc -o Hello HelloWorld.o main.o
 
 git add .
 
-git commit -m "EC2 Cron"
-
-cnt=cnt + 1
+git commit -m "EC2 Cron Build $date"
 
 git push
