@@ -9737,3 +9737,9 @@ Checking simple.c ...
 3/3 files checked 100% done
 Hello, World! Seungwoo
 Hello, World! Seungwoo
+[master dc2a01c] EC2 Cron
+ 2 files changed, 17 insertions(+)
+ create mode 100644 .shtest.sh.swp
+./shtest.sh: line 19: +: command not found
+To https://github.com/spark7677/Cron_Test.git
+   66ef2de..dc2a01c  master -> master

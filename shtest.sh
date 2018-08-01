@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Build number"
+echo "Buil "
 echo "$cnt"
 
 date
