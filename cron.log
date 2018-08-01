@@ -9607,3 +9607,7 @@ Checking simple.c ...
 3/3 files checked 100% done
 Hello, World! Seungwoo
 Hello, World! Seungwoo
+[master 817551f] iEC2 Cron #
+ 1 file changed, 11 insertions(+)
+To https://github.com/spark7677/Cron_Test.git
+   c062e35..817551f  master -> master
