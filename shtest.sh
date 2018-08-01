@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Build Step"
+echo "Build number $cnt"
 
 date
 
@@ -13,7 +13,7 @@ gcc -o Hello HelloWorld.o main.o
 
 git add .
 
-git commit -m "EC2 Cron # $cnt"
+git commit -m "EC2 Cron"
 
 cnt=cnt + 1
 
