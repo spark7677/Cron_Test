@@ -228,3 +228,29 @@ Checking simple.c ...
 ########### Excuting File ############
 Hello, World! Seungwoo
 Hello, World! Seungwoo
+[master 17506a2] EC2 Cron Build
+ 3 files changed, 42 insertions(+), 1 deletion(-)
+ delete mode 100644 .shtest.sh.swp
+To https://github.com/spark7677/Cron_Test.git
+   47314cf..17506a2  master -> master
+
+################ DONE ################
+
+
+########## Cron Build Time ##########
+Wed Aug  1 15:24:01 UTC 2018
+Already up-to-date.
+
+############# CPPCHECK ##############
+Checking HelloWorld.c ...
+1/3 files checked 33% done
+Checking main.c ...
+2/3 files checked 66% done
+Checking simple.c ...
+3/3 files checked 100% done
+
+############# Compiling ##############
+
+########### Excuting File ############
+Hello, World! Seungwoo
+Hello, World! Seungwoo
